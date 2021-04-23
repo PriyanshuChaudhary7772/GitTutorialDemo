@@ -1,0 +1,4 @@
+this is version 1 of my project
+i want to go into commit again
+change by taker
+this is changed now
